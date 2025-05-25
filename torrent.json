@@ -1,10 +1,1756 @@
 {
-  "Hydra": [
-   {
-      "title": "Grand Theft Auto V",
+  "name": "LinuxRuleZ!",
+  "downloads": [
+    {
+      "title": "Car For Sale Simulator 2023 (v.0.4.1) [Unity3D] [Goldberg / Voices38] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:0af3981222ef20a737f3b3e383c1f0ff36d33dc3&dn=Car%20For%20Sale%20Simulator%202023.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-23T12:45:00.000Z",
+      "fileSize": "3.43 GB"
+    },
+    {
+      "title": "Dune: Spice Wars - House Vernius of Ix (v.2.1.7.32388) [MULTi9] [RUNE] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:717494de4a9e34246795ad4f12504fea840d8909&dn=Dune%20Spice%20Wars.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-06T09:16:00.000Z",
+      "fileSize": "1.64 GB"
+    },
+    {
+      "title": "DOOM + DOOM II Definitive and Enhanced (2024) (v.2283 (17.09.2024)) (18 maps added) [GOG] [Wine] [LinuxRuleZ!]]",
+      "uris": [
+        "magnet:?xt=urn:btih:9fcd482121308f9f6c1db6deafbe847a46ed9b55&dn=DOOM%20%2B%20DOOM%20II.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-18T08:45:00.000Z",
+      "fileSize": "945.6 MB"
+    },
+    {
+      "title": "A Little to the Left (v.3.1.4) + 2 DLC [Unity3D] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2b860836de49949440d8784340d198fe77ed4e5f&dn=A%20Little%20to%20the%20Left.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-23T09:27:00.000Z",
+      "fileSize": "2.79 GB"
+    },
+    {
+      "title": "Ready or Not: Home Invasion (v.56549) [Unreal Engine 4] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:19239c9ddae23c7905f76b856607286f91a0bc0b&dn=Ready%20or%20Not.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-23T09:27:00.000Z",
+      "fileSize": "44.57 GB"
+    },
+    {
+      "title": "Norland (v.0.4018.5750.0) [RUNE] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:1593ef3417f5b0409375a13a81b42230c5b8ebc3&dn=Norland.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-12T09:33:00.000Z",
+      "fileSize": "702.2 MB"
+    },
+    {
+      "title": "SOUTH PARK: SNOW DAY! Deluxe Edition (2024) (v.20240822) + 12 DLC [Unreal Engine 4] [P2P] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:f3437aa00f439ed82f121571cbc4755e936106bc&dn=SOUTH%20PARK%20SNOW%20DAY%21.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-23T09:26:00.000Z",
+      "fileSize": "26.45 GB"
+    },
+    {
+      "title": "Among Us (v.2024.8.13i) + 7 DLC + Multiplayer [Goldberg] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:cac3f14d431cdb7e0a1b05c6d50e5059176b8bc7&dn=Among%20Us.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-23T09:25:00.000Z",
+      "fileSize": "431.9 MB"
+    },
+    {
+      "title": "Palworld (v.0.3.8.59315) [Unreal Engine 4] [Goldberg] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a6f1ad7d447101db04ecefdc7520a6ac224cd2f2&dn=Palworld.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-27T09:58:00.000Z",
+      "fileSize": "17.38 GB"
+    },
+    {
+      "title": "Tunguska: The Visitation - Slaughterhouse (v.1.89.2-1) + 6 DLC [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:14ee561464efb524675b2d42b0ca3569dd72d3f4&dn=Tunguska%20The%20Visitation.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-30T09:18:00.000Z",
+      "fileSize": "2.14 GB"
+    },
+    {
+      "title": "SpellRogue (v.0.9.4.1b18) [Unity3D] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:8c8d56d30f01e6f9158828ed191d21131f23e7f0&dn=SpellRogue.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-22T08:15:00.000Z",
+      "fileSize": "1.53 GB"
+    },
+    {
+      "title": "Tales of Kenzera: ZAU (2024) (v.1.3.1.43002) [Unreal Engine 4] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:9252c05c4722d4917b969bfb5549b3adbadcffba&dn=Tales%20of%20Kenzera%20ZAU.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-22T08:15:00.000Z",
+      "fileSize": "14.05 GB"
+    },
+    {
+      "title": "ICARUS (v.2.2.16.125988) + 14 DLC [Unreal Engine 4] [TENOKE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:e09b8c4bb8dced32d3654e0d4027a97532120600&dn=ICARUS.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-23T08:14:00.000Z",
+      "fileSize": "34.97 GB"
+    },
+    {
+      "title": "Last Epoch (2024) (v.1.1.7.3) + 15 DLC [Unity3D] [Goldberg] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:7f2c788a7dcd54d739ae15992d42f6b93bd66e8c&dn=Last%20Epoch.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-24T09:40:00.000Z",
+      "fileSize": "11.92 GB"
+    },
+    {
+      "title": "Old World: Behind The Throne (v.1.0.74111) + 5 DLC [MULTi] [Unity3D] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:ff6896458d86162e48e9263a91318945d77a55ef&dn=Old%20World.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-22T08:12:00.000Z",
+      "fileSize": "2.92 GB"
+    },
+    {
+      "title": "Pacific Drive: Deluxe Edition (2024) (v.1.7.2) + We Have Liftoff Customization Pack DLC [RUNE] [Unreal Engine 4] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:65f7efc4bd05ad23982b087f0484f31cc77e666e&dn=Pacific%20Drive.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-25T10:10:00.000Z",
+      "fileSize": "16.07 GB"
+    },
+    {
+      "title": "Dustborn (2024) (v.1.2) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:e7121abd75ce534af0c049d875cdf2a748adcfc3&dn=Dustborn.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-21T09:17:00.000Z",
+      "fileSize": "9.57 GB"
+    },
+    {
+      "title": "Forza Horizon 5: JDM Jewels Car Pack - Premium Edition (v.1.660.281.0) + 57 DLC [Goldberg] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:b7e093224f45e221d07e3a5311ef767f2cfe618e&dn=Forza%20Horizon%205.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce"
+      ],
+      "uploadDate": "2024-09-15T08:47:00.000Z",
+      "fileSize": "160.15 GB"
+    },
+    {
+      "title": "Forza Horizon 4: Ultimate Edition (v.1.478.564.0) + 61 DLC [MULTi17] [SteamRip] [Goldberg] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:13a68c6d055466bc0b8cbd96e8cefb299e0ad014&dn=Forza%20Horizon%204.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2023-12-01T10:41:00.000Z",
+      "fileSize": "90.43 GB"
+    },
+    {
+      "title": "Dystopika (2024) (v.1.0.5) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:4426c71c688318f9f320dc9ea19cd1878318a2d6&dn=Dystopika.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-21T09:16:00.000Z",
+      "fileSize": "468.4 MB"
+    },
+    {
+      "title": "Retreat To Enen (v.1.1.2 build 75373) [Unreal Engine 4] [GOG] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:74133dd63d25c811dfcbd782cee28554b07aaaac&dn=Retreat%20To%20Enen.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-21T09:15:00.000Z",
+      "fileSize": "4.03 GB"
+    },
+    {
+      "title": "Stardeus (v.0.11.18) [MULTi] [Unity3D] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:f18477fe5f20defaf3e1fd91c9fb3ce100bd82ea&dn=Stardeus.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-20T10:50:00.000Z",
+      "fileSize": "687.3 MB"
+    },
+    {
+      "title": "No Man's Sky: Aquarius (v.5.12) + Preorder DLC [GOG] [Proton/FSync] (No Mans Sky) [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:d8a30cdc2be078595fd3b0d2b70900654e8f2dcf&dn=No%20Man%27s%20Sky.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:21:00.000Z",
+      "fileSize": "17.57 GB"
+    },
+    {
+      "title": "Marvel's Spider-Man 2: Digital Deluxe Edition PC Port (v.1.5.4) [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:0d9de1f72a4dca0d6dbb067ad462505c847403cd&dn=Marvels%20Spider-Man%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce"
+      ],
+      "uploadDate": "2024-08-20T10:49:00.000Z",
+      "fileSize": "91.33 GB"
+    },
+    {
+      "title": "Dead Cells: Return to Castlevania - The End Is Near (v.1.26.0 build 75679) + 5 DLC + Bonus [MULTi] [Heaps] [GOG]",
+      "uris": [
+        "magnet:?xt=urn:btih:a004caef23871c9945453114e39742b64f6b6c35&dn=Dead%20Cells&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-20T10:48:00.000Z",
+      "fileSize": "2.61 GB"
+    },
+    {
+      "title": "Tiny Terry's Turbo Trip (2024) (v.1.104.1801) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:89c45ce629c8b812c94dbdc8800b51b0076b3528&dn=Tiny%20Terry%27s%20Turbo%20Trip.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-20T10:46:00.000Z",
+      "fileSize": "390.9 MB"
+    },
+    {
+      "title": "Planetaries (v.build 15406275) [Unream Engine 4] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:6eeb7424ecf56140518bbc17eb0e2ee2c23b319a&dn=Planetaries.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-20T10:46:00.000Z",
+      "fileSize": "7.48 GB"
+    },
+    {
+      "title": "Kynseed (v.1.2.0.12582 build 75566) [Mono] [GOG] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:982173212bc7503d95ac49b96af9f87df9b14253&dn=Kynseed.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-19T09:54:00.000Z",
+      "fileSize": "608.3 MB"
+    },
+    {
+      "title": "ELDEN RING: Shadow of the Erdtree (v.1.15) + 4 DLC [CODEX] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:7fcf8fa617c27a22bde38d2ee3a134af7c7a6818&dn=ELDEN%20RING.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-03T10:22:00.000Z",
+      "fileSize": "64.80 GB"
+    },
+    {
+      "title": "Selaco (v.build 15253052 (18.08.2024)) [GZDoom] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:4e697ce914b0b46ca7697bfd8f1b8dd8b77726ce&dn=Selaco.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-19T09:52:00.000Z",
+      "fileSize": "1.07 GB"
+    },
+    {
+      "title": "SnowRunner: Rezvani Tank (v.31.1) + All DLC [MULTi] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:e71118fe9227e47120d4bf671679a1c3329f3efa&dn=SnowRunner.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-19T09:52:00.000Z",
+      "fileSize": "33.94 GB"
+    },
+    {
+      "title": "Trailmakers: The Mod Makers (v.1.9.1) + 10 DLC [Unity3D] [TENOKE] [DXVK/Proton/ESync]",
+      "uris": [
+        "magnet:?xt=urn:btih:959f76f6b17790a38e19bf5bc97cce36720bc31b&dn=Trailmakers.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-19T09:51:00.000Z",
+      "fileSize": "5.35 GB"
+    },
+    {
+      "title": "Minecraft (v.1.12.2 / v.1.18.2 / v.1.19.4 / 1.21.1) (Tricky Trials) [Java] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:f1836a369e2173a34e4e5b3ce93bc2f1b7de00a1&dn=Minecraft.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-19T09:51:00.000Z",
+      "fileSize": "2.63 GB"
+    },
+    {
+      "title": "Synergy (v.2408121357 build 75517) [Unity3D] [GOG] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:f8203e05f20137f69258d4092d888133d87310e1&dn=Synergy.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-19T09:50:00.000Z",
+      "fileSize": "664.3 MB"
+    },
+    {
+      "title": "Tyrant's Blessing (v.1.0.648 build 61091) [GOG]",
+      "uris": [
+        "magnet:?xt=urn:btih:9a53a458042f5c471ccaea67fc071cd8d048e9b8&dn=tyrant_s_blessing_v1_0_648_61091.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-18T08:43:00.000Z",
+      "fileSize": "625.2 MB"
+    },
+    {
+      "title": "Factorio (v.1.1.110) [MULTi] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:47e401b1915e4e69dc6ac026920d651f06ba230b&dn=Factorio.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-18T08:42:00.000Z",
+      "fileSize": "1.34 GB"
+    },
+    {
+      "title": "SteamWorld Heist II (2024) (v.1.5) [GOG] [MULTi12] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:b34d3d5fdfdfebc6391b0c2fda4dc9b9b12753c5&dn=SteamWorld%20Heist%20II.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-06T12:49:00.000Z",
+      "fileSize": "1.47 GB"
+    },
+    {
+      "title": "Vampire Survivors: Emergency Meeting (v.1.11.108) + 3 DLC [MULTi] [Unity3D] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:4df2e6ee23d98dd53dc4a24459c92e44de443b19&dn=Vampire%20Survivors.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-18T08:40:00.000Z",
+      "fileSize": "402.7 MB"
+    },
+    {
+      "title": "Galactic Civilizations IV: Supernova (v.2.9) [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:436fcbd84a9d177b152d54eb00da2eea609297ca&dn=Galactic%20Civilizations%20IV.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-07T06:43:00.000Z",
+      "fileSize": "17.18 GB"
+    },
+    {
+      "title": "Sins of a Solar Empire II (v.28.16.0) [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!] (2)",
+      "uris": [
+        "magnet:?xt=urn:btih:2bf39b8d340b49b931c5b96109621a7ed840fa27&dn=Sins%20of%20a%20Solar%20Empire%20II.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-03T08:38:00.000Z",
+      "fileSize": "5.97 GB"
+    },
+    {
+      "title": "LEGO Lord of the Rings (v.1.0 build 75536) [GOG] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:5fc971c9d4f06cba90068333e495969b066a4e70&dn=LEGO%20Lord%20of%20the%20Rings.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-25T08:16:00.000Z",
+      "fileSize": "5.4 GB"
+    },
+    {
+      "title": "Dying Light 2 Stay Human: Reloaded Edition (v.1.18.0) + 27 DLC [MULTi17] [Goldberg + SSE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:841e50de532e46abf658ba07d394937270e81624&dn=Dying%20Light%202%20Stay%20Human.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-25T08:15:00.000Z",
+      "fileSize": "43.76 GB"
+    },
+    {
+      "title": "Low Magic Age (v.0.91.73) [Goldberg] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:dd75def4570e06d06188f4f6a24df30ebd72ebee&dn=Low%20Magic%20Age.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-25T08:14:00.000Z",
+      "fileSize": "267.7 MB"
+    },
+    {
+      "title": "Mortal Kombat 11 Ultimate Edition (v.0.384-34-CL237394) + 44 DLC + DX12 Mode [CODEX] [DXVK/Proton/ESync]",
+      "uris": [
+        "magnet:?xt=urn:btih:1da56ef693805dd57f29e17a3ae8955b79d17e8d&dn=Mortal%20Kombat%2011.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-25T08:12:00.000Z",
+      "fileSize": "100.05 GB"
+    },
+    {
+      "title": "World of Goo 2 (2024) (v.1.0.12478) [MULTi14] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:dc24c508490ac126725146df44ba33b07260bb5e&dn=World%20of%20Goo%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-25T08:08:00.000Z",
+      "fileSize": "817.7 MB"
+    },
+    {
+      "title": "Cult of the Lamb: Pilgrim Pack (v.1.4.4.592) + 10 DLC [Unity3D] [TENOKE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:7b8d2f8223b3d188edc88a379a8447fcbf3fea5c&dn=Cult%20of%20the%20Lamb.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-25T08:07:00.000Z",
+      "fileSize": "2.7 GB"
+    },
+    {
+      "title": "SteamWorld Build (v.1.0.13.0) + Mechanized DLC [Unity3D] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2a3aefb64699914ee545c2d8e5783fd4d4295668&dn=SteamWorld%20Build.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-24T13:45:00.000Z",
+      "fileSize": "1.12 GB"
+    },
+    {
+      "title": "Atlas Fallen: Reign of Sand (v.1.118898.1722781180) + 2 DLC [RUNE] [Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:998c734fdd55da1af0518af2eb5eb03db905e01e&dn=Atlas%20Fallen.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-24T13:45:00.000Z",
+      "fileSize": "25.63 GB"
+    },
+    {
+      "title": "House Builder: Garden (2024) (v.20240916) + 3 DLC [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:018d7b1aa1d5b1b32916ff619710f4af2ee89eee&dn=House%20Builder.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-17T09:32:00.000Z",
+      "fileSize": "13.34 GB"
+    },
+    {
+      "title": "Crime Boss: Rockay City (2024) (v.1.0.11.1) + 4 DLC [Unreal Engine 4] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:5b893200bd9ebaaa11db1d658341e9b83d428f74&dn=Crime%20Boss%20Rockay%20City.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-24T13:43:00.000Z",
+      "fileSize": "74.75 GB"
+    },
+    {
+      "title": "EVERSPACE 2: Titans (v.1.3.42909) + 2 DLC [Unreal Engine 4] [TENOKE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:3d46578ce33e9ce4e63621e988c361df07846212&dn=EVERSPACE%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-17T09:31:00.000Z",
+      "fileSize": "28.48 GB"
+    },
+    {
+      "title": "Wild West Dynasty (2024) (v.1.0.9064) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:5b75231eae030980e708c56ac7e8261290cabab4&dn=Wild%20West%20Dynasty.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-24T13:41:00.000Z",
+      "fileSize": "6.28 GB"
+    },
+    {
+      "title": "No Plan B (v.1.1.12) [Unity3D] [Goldberg Steam Emu] [Wine]",
+      "uris": [
+        "magnet:?xt=urn:btih:48155f74c9872253b367b2e2d7179ea4a8740007&dn=No%20Plan%20B.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-24T13:41:00.000Z",
+      "fileSize": "307.7 MB"
+    },
+    {
+      "title": "Car For Sale Simulator 2023 (v.0.4.1) [Unity3D] [Goldberg / Voices38] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:0af3981222ef20a737f3b3e383c1f0ff36d33dc3&dn=Car%20For%20Sale%20Simulator%202023.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-23T12:39:00.000Z",
+      "fileSize": "3.43 GB"
+    },
+    {
+      "title": "Coffee Caravan (2024) [Unity3D] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:d221a2cad366dc1681d7cf5c51e726e2a5c73f04&dn=Coffee%20Caravan.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-18T08:39:00.000Z",
+      "fileSize": "162.3 MB"
+    },
+    {
+      "title": "Liftoff: FPV Drone Racing (v.1.6.5) + 3 DLC [MULTi3] [Unity3D] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:5dc30ca061ab1c09dc16826be5044513f9d1a1a2&dn=Liftoff%20FPV%20Drone%20Racing.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-18T08:39:00.000Z",
+      "fileSize": "15.22 GB"
+    },
+    {
+      "title": "DREDGE: The Iron Rig (v.1.5.3) + 6 DLC [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:5d886e1b3c9f00efcd19a8ac721a5b20b0a0651b&dn=DREDGE.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:23:00.000Z",
+      "fileSize": "1.07 GB"
+    },
+    {
+      "title": "Karate Survivor (2024) (v.1.0.0.68) [Goldberg] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:6f2476179db8af466c8623d2085d4fd66ce53608&dn=Karate%20Survivor.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-17T08:34:00.000Z",
+      "fileSize": "123.9 MB"
+    },
+    {
+      "title": "Diablo: Hellfire (devilutionX v.1.5.2) [GOG] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:586a45c28a7ec654975bd784c812fc6c847d239c&dn=Diablo%20%2B%20Hellfire%20devilutionX.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-16T07:28:00.000Z",
+      "fileSize": "1.13 GB"
+    },
+    {
+      "title": "MULLET MAD JACK (2024) (v.1.09) [Unity3D] [MULTi8] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ]",
+      "uris": [
+        "magnet:?xt=urn:btih:62b117a2ad0fe0e6d321fe41bac6e096879bf11b&dn=MULLET%20MAD%20JACK.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-16T07:31:00.000Z",
+      "fileSize": "2.93 GB"
+    },
+    {
+      "title": "The Talos Principle 2: Road to Elysium (v.696260) + 2 DLC [MULTi12] [Unreal Engine 5] [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!] 07:29",
+      "uris": [
+        "magnet:?xt=urn:btih:b194be1706090ec1013965c7a7dda7081e8292d4&dn=The%20Talos%20Principle%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-16T07:29:00.000Z",
+      "fileSize": "97.8 GB"
+    },
+    {
+      "title": "Dimensions (2024) [Unreal Engine 4] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:94fa9f4e9deac416d8692654ed2e5e30bf3fd890&dn=Dimensions.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-17T08:33:00.000Z",
+      "fileSize": "35.15 GB"
+    },
+    {
+      "title": "Moonstone Island (v.1.4.2055.12) + 9 DLC [NW.js] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:8069a853efb6808533acd0627772f2a6d23ce43b&dn=Moonstone%20Island.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-15T09:29:00.000Z",
+      "fileSize": "311.9 MB"
+    },
+    {
+      "title": "CONSCRIPT (2024) (v.14.08.2024) + 2 DLC [Gamemaker] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:8648eb294beecd309f6284c99302d2280df28658&dn=CONSCRIPT.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-15T09:39:00.000Z",
+      "fileSize": "760.4 MB"
+    },
+    {
+      "title": "Don't Starve Together (v.632551) [Goldberg Steam Emu] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:5f4010a23e8350fe5a3dc56cf4ef98f3829cc105&dn=Don%27t%20Starve%20Together.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-26T17:21:00.000Z",
+      "fileSize": "2.41 GB"
+    },
+    {
+      "title": "State of Decay 2: Juggernaut Edition (v.Update 37.1 - build 15339756) + 3 Add-ons + 1 DLC [Unreal Engine 4] [CODEX] [DXVK/Proton/FSync] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:25186bf6010a679aa19ac52241985f8f5b6f51f8&dn=State%20of%20Decay%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-15T09:41:00.000Z",
+      "fileSize": "16.12 GB"
+    },
+    {
+      "title": "Old World: Behind The Throne (v.1.0.73566) + 5 DLC [MULTi] [Unity3D] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:1c704bd03f99c54c58b0fa642ee43d9c7247b5e5&dn=Old%20World.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-16T07:33:00.000Z",
+      "fileSize": "2.85 GB"
+    },
+    {
+      "title": "Remnant II: The Dark Horizon - Ultimate Edition (v.446 618) + 7 DLC [Unreal Engine 5] [CODEX] [VKD3D/Proton/FSync] [LinuxRuleZ!] (2)",
+      "uris": [
+        "magnet:?xt=urn:btih:71500f3e8064bc3e66ef31b022a135807115ab9d&dn=Remnant%20II.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-05T06:23:00.000Z",
+      "fileSize": "82.61 GB"
+    },
+    {
+      "title": "Crime Scene Cleaner (2024) (v.1.0.20) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:91bd860776b5cb4d66511c1ef2dbc73fc56867b0&dn=Crime%20Scene%20Cleaner.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-15T09:35:00.000Z",
+      "fileSize": "11.3 GB"
+    },
+    {
+      "title": "Norland (2024) (v.0.3972.5584.0) [RUNE] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:5bc9608ff37464ded3d3eb82c8697a06190031f0&dn=Norland.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-15T09:36:00.000Z",
+      "fileSize": "702.2 MB"
+    },
+    {
+      "title": "Nickelodeon All-Star Brawl 2: Iroh Brawl Pack (v.1.12.0) + 7 DLC [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:26f0069cab17986eb73f90dc8a5f59d7504b09ad&dn=Nickelodeon%20All-Star%20Brawl%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-17T08:34:00.000Z",
+      "fileSize": "6.02 GB"
+    },
+    {
+      "title": "RC Revolution (2024) + Career Mode [Unity3D] [SKIDROW] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a5913f9f4ed8edb2ef205ba6fc414a50f33131d7&dn=RC%20Revolution.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-18T08:38:00.000Z",
+      "fileSize": "2.21 GB"
+    },
+    {
+      "title": "Artifice War Tactics (2024) (v.1.0.7) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:039265becab8846d7624041deca702934e123e16&dn=Artifice%20War%20Tactics.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-17T08:35:00.000Z",
+      "fileSize": "3.52 GB"
+    },
+    {
+      "title": "Ancient Cities (v.1.0.3.27) [TENOKE] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:6958f58276a8f84fb83518d6845ca9bd353617ff&dn=Ancient%20Cities.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-05T09:40:00.000Z",
+      "fileSize": "1.67 GB"
+    },
+    {
+      "title": "Starfield: Shattered Space Digital Premium Edition (v.1.14.70.0) + 5 DLC [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:256985ada5af242a25c01facb7ed6b24ab656439&dn=Starfield.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-01T10:27:00.000Z",
+      "fileSize": "97.87 GB"
+    },
+    {
+      "title": "9-Bit Armies: A Bit Too Far (2024) (v.build 15618693) [Unity3D] [SSE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:d73ca86f9fd8f334a97476857a80a420979890b2&dn=9%20Bit%20Armies%20A%20Bit%20Too%20Far.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-27T08:34:00.000Z",
+      "fileSize": "2.88 GB"
+    },
+    {
+      "title": "Wartales: The Pits (v.1.0.37335) + 3 DLC [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:d0c7cb27bb31e0fd5dba37d0689dfe03ddd2148b&dn=Wartales.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-04T08:45:00.000Z",
+      "fileSize": "9.94 GB"
+    },
+    {
+      "title": "Songs of Conquest: Supporter Pack Bundle (2024) (v.1.3.2) [Unity3D] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:b13924946de773b77ed4350501a936e0266ab42f&dn=Songs%20of%20Conquest.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-02T09:17:00.000Z",
+      "fileSize": "1.97 GB"
+    },
+    {
+      "title": "Ghost of Tsushima DIRECTOR'S CUT (v.1053.7.0809.1937) + Pre-purchase Entitlements [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:4686c296d7585a21b44861e467edd06a5346b601&dn=Ghost%20of%20Tsushima%20Director%27s%20Cut.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-14T08:48:00.000Z",
+      "fileSize": "43.48 GB"
+    },
+    {
+      "title": "Red Dead Redemption 2: Ultimate Edition (v.1491.5) + 9 DLC Unlocked [Razor1911] [Proton/FSync] [LinuxRuleZ!] 08:44",
+      "uris": [
+        "magnet:?xt=urn:btih:6b1feae9f36d5b6493aaebf8b58a09c02874189a&dn=Red%20Dead%20Redemption%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-15T08:44:00.000Z",
+      "fileSize": "100.01 GB"
+    },
+    {
+      "title": "Age of Wonders 4: Expansion Pass 2 - Premium Edition (v.1.008.001.97646) + 10 DLC [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:1686e3de9df8660abe68528db3d0efbc176ec81f&dn=Age%20of%20Wonders%204.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-04T08:42:00.000Z",
+      "fileSize": "10.87 GB"
+    },
+    {
+      "title": "Fabled Lands: The Serpent King's Domain (v.2.0.5b build 75420) + 2 DLC [MULTi] [GOG] [Wine] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:7ed5bd6c12761055e41b61a29ae1b0211650f308&dn=Fabled%20Lands.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-04-14T08:48:00.000Z",
+      "fileSize": "786.6 MB"
+    },
+    {
+      "title": "Darkest Dungeon II: The Binding Blade (v.1.06.67316 build 76070) + 2 DLC [Unity3D] [FLT] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a8eef241600d009f2a1610d1622e3a78dd83ef42&dn=Darkest%20Dungeon%20II.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-08T08:42:00.000Z",
+      "fileSize": "4.11 GB"
+    },
+    {
+      "title": "Police Simulator: Patrol Officers - Highway Patrol Expansion (v.14.4.4) + 7 DLC [Unreal Engine 4] [RUNE Proper] [DXVK/Wine/FSync] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:0a27aa2a2caf5e1969f9137a16c94d0489e8940e&dn=Police%20Simulator%20Patrol%20Officers.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-15T09:27:00.000Z",
+      "fileSize": "3.68 GB"
+    },
+    {
+      "title": "Operation Polygon Storm (2024) [Unity3D] [SKIDROW] [Wine] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:bc987df1e3fdf1ed52084ddf1f90b4915d722a92&dn=Operation%20Polygon%20Storm.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-14T08:46:00.000Z",
+      "fileSize": "1.01 GB"
+    },
+    {
+      "title": "Xenonauts 2 (v.4.25 build 76194) [Unity3D] [GOG] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:4ce3ddc4dc5afbca228eb2d0fc521cd009634db4&dn=Xenonauts%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-14T09:13:00.000Z",
+      "fileSize": "3.71 GB"
+    },
+    {
+      "title": "Nova Drift (2024) [Gamemaker] [Wine] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:9c66b6079108600e0c40ba553f0a53fb3c629166&dn=Nova%20Drift.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-13T08:46:00.000Z",
+      "fileSize": "396.7 MB"
+    },
+    {
+      "title": "DAVE THE DIVER: Godzilla Content Pack (v.1.0.2.1474) + 2 DLC [Unity3D] [Goldberg] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:bdc48293bfec5304ba10b57b7aecacfdd15ee63c&dn=DAVE%20THE%20DIVER.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-14T09:12:00.000Z",
+      "fileSize": "1.93 GB"
+    },
+    {
+      "title": "EExophobia (2024) (v.1.1.0) [MULTi7] [Gamemaker] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:edbda5a306b040e29bf05bcdcd14e938663913d2&dn=Exophobia.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-18T08:48:00.000Z",
+      "fileSize": "272.7 MB"
+    },
+    {
+      "title": "Nevergrind Online (v.1.1.2) [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2e0556168c6689a6389c0f21945d29e7d1f8af20&dn=Nevergrind%20Online.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-28T09:15:00.000Z",
+      "fileSize": "557.9 MB"
+    },
+    {
+      "title": "The Land of the Magnates (2024) (v.build 15067862) [Unreal Engine 4] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a3e34f8b83e60a03a38c4dbf87865f4cb89af9f4&dn=The%20Land%20of%20the%20Magnates.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-28T09:14:00.000Z",
+      "fileSize": "6.88 GB"
+    },
+    {
+      "title": "Endzone 2 (2024) (v.0.8.9028.22986) [Unity3D] [Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:dd2815cd2621e0577bf0d5ce120701e190b1d3e6&dn=Endzone%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-22T08:28:00.000Z",
+      "fileSize": "3.17 GB"
+    },
+    {
+      "title": "Manor Lords (v.0.8.004) [Unreal Engine 4] [GOG] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:ac63ec93c019cca690e5a9a25639abda18d56dac&dn=Manor%20Lords.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-27T10:00:00.000Z",
+      "fileSize": "4.69 GB"
+    },
+    {
+      "title": "The Lord of the Rings: Return to Moria (v.1.3.3) [Unreal Engine 4] [RUNE] [VKD3D/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:d5c9450694fa3ad6dfff338bf1a90ddbe30e204b&dn=The%20Lord%20of%20the%20Rings%20Return%20to%20Moria.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-06T12:53:00.000Z",
+      "fileSize": "14.20 GB"
+    },
+    {
+      "title": "Age of Mythology: Retold (2024) (v.100.17.31993.0) + 2 DLC [MULTi] [Goldberg] [VKD3D/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:417e13e5a6754b38852c0c19edf437e9f7025f2c&dn=Age%20of%20Mythology%20Retold.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-26T17:20:00.000Z",
+      "fileSize": "10.01 GB"
+    },
+    {
+      "title": "Sunrise GP (2024) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:9344fe8eccaf174bbaf7b0976b2d4f5e9309a781&dn=Sunrise%20GP.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-29T09:23:00.000Z",
+      "fileSize": "1.59 GB"
+    },
+    {
+      "title": "The Planet Crafter (2024) (v.1.214) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:f92dea02a8f9bfcd2a2c657875e5bab109f7b1d9&dn=The%20Planet%20Crafter.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-13T10:24:00.000Z",
+      "fileSize": "3.68 GB"
+    },
+    {
+      "title": "Craftomation 101: Programming & Craft (v.0.82.1.732) [BG/EN/MULTi32] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:a64abeb22885e9e0fef4f4b4aafa50b5d49ef7d7&dn=Craftomation%20101%20Programming%20and%20Craft.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-24T09:40:00.000Z",
+      "fileSize": "184.9 MB"
+    },
+    {
+      "title": "Assetto Corsa Competizione: 24H Nurburgring Pack (v.1.10.3) + All DLC [MULTi12] [Unreal Engine 4] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:209072459bc378322ba73bfc3fd7cf212ab1166e&dn=Assetto%20Corsa%20Competizione.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-29T09:24:00.000Z",
+      "fileSize": "17.8 GB"
+    },
+    {
+      "title": "Monster Jam Showdown (2024) [Unreal Engine 4] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:51bacbb49ec0e296a4661f52a8ccc34eba4b93f5&dn=Monster%20Jam%20Showdown.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-29T09:25:00.000Z",
+      "fileSize": "12.86 GB"
+    },
+    {
+      "title": "Squirrel with a Gun (2024) (v.1.0.2.14) [Unreal Engine 4] [DOGE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a037fe5fda2fd66b072b3194c3ff49d433b489ce&dn=Squirrel%20with%20a%20Gun.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-30T09:57:00.000Z",
+      "fileSize": "2.19 GB"
+    },
+    {
+      "title": "PULSAR: Lost Colony (v.1.2.05) [Unity3D] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:edc79108768158ccdb1f036ef5b5ed705470ade4&dn=PULSAR%20Lost%20Colony.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-30T09:54:00.000Z",
+      "fileSize": "2.59 GB"
+    },
+    {
+      "title": "WWE 2K24: Global Superstars Pack - Fourty Years of Wrestle Mania Edition (2024) (v.1.19) + 10 DLC [RUNE] [VKD3D/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:41231431d3bdef7d66a80748b6db6bfc5638eb99&dn=WWE%202K24.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-23T07:49:00.000Z",
+      "fileSize": "90.75 GB"
+    },
+    {
+      "title": "Balatro (2024) (v.1.0.1g) [LOVE] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:80c46ca50c3448afbbf3e1856f32c4d2aa073e3e&dn=Balatro.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-30T09:55:00.000Z",
+      "fileSize": "58.9 MB"
+    },
+    {
+      "title": "CarX Street (2024) (v.1.0.6) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a9139007bb2aa43b511e11f205be8834e25a4e3d&dn=CarX%20Street.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-29T09:06:00.000Z",
+      "fileSize": "13.11 GB"
+    },
+    {
+      "title": "Panzer Corps 2: War Stories - Fall of Poland (v.1.12.2) + 11 DLC [Unreal Engine 4] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:2476aea450e8425e1adcd4f89c4ee3ac4ff0a430&dn=Panzer%20Corps%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-30T09:57:00.000Z",
+      "fileSize": "4.47 GB"
+    },
+    {
+      "title": "Pirates Journey (2024) [Unreal Engine 4] [MULTi] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2476aea450e8425e1adcd4f89c4ee3ac4ff0a430&dn=Panzer%20Corps%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-16T08:25:00.000Z",
+      "fileSize": "3.59 GB"
+    },
+    {
+      "title": "Edge of Sanity (2024) (v.1.1.1) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:c20d09e0a3648a17a96bcd89e95e3498687b3745&dn=Edge%20of%20Sanity.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-16T08:22:00.000Z",
+      "fileSize": "949.9 MB"
+    },
+    {
+      "title": "HOT WHEELS UNLEASHED 2 - Turbocharged - Alien Encounters (v.1358352) + 24 DLC [Unreal Engine 4] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!]!",
+      "uris": [
+        "magnet:?xt=urn:btih:c28ca344d394229294fffea9ee7e0577d83491ee&dn=HOT%20WHEELS%20UNLEASHED%202%20Turbocharged.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-16T08:21:00.000Z",
+      "fileSize": "21.18 GB"
+    },
+    {
+      "title": "Train Traffic Manager (2024) (v.build 12176219) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:8ae1cb63b428b1d761ab2c8e663a6b00008a757f&dn=Train%20Traffic%20Manager.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-16T08:19:00.000Z",
+      "fileSize": "1.11 GB"
+    },
+    {
+      "title": "Sackboy: A Big Adventure (v.build 10884090) + 15 DLC [Unreal Engine 4] [MULTI24] [CODEX] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:583b01a616597ebc2cf6972e9bbc8e6cd38bd4d6&dn=Sackboy%20A%20Big%20Adventure.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-16T08:19:00.000Z",
+      "fileSize": "40.21 GB"
+    },
+    {
+      "title": "Junkyard Simulator (v.3.1.11) [Unreal Engine 4] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:554aabd152eeba4a93b0505a57775fb836be5001&dn=Junkyard%20Simulator.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-16T08:18:00.000Z",
+      "fileSize": "13.0 GB"
+    },
+    {
+      "title": "Quake: Enhanced (v.1.30) [GOG] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:451105ec7d7d85334bfb9c454db18465a8be37f5&dn=Quake%20Enhanced.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-16T08:18:00.000Z",
+      "fileSize": "409.8 MB"
+    },
+    {
+      "title": "AMEDAMA (2024) (v.2.0) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:53c1b6c7eca74774deb044052c8ac87e367f5145&dn=AMEDAMA.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-15T08:53:00.000Z",
+      "fileSize": "409.8 MB"
+    },
+    {
+      "title": "Roots of Pacha (v.1.2.0.4) [Unity3D] [TENOKE] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:9d0670bc997b5109d8ac556d37df29dc2882ae52&dn=Roots%20of%20Pacha.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-14T09:14:00.000Z",
+      "fileSize": "678.1 MB"
+    },
+    {
+      "title": "Len's Island (v.0.9) [Unity3D] [MULTi9] [SSE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:b5f89bad91b8e094789c2b9364aaa7717f9b2a24&dn=Len%27s%20Island.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-14T09:12:00.000Z",
+      "fileSize": "1.85 GB"
+    },
+    {
+      "title": "Hollowbody (2024) (v.build 15693012) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:1531637f43d2406e05b4859185932e821cd8839c&dn=Hollowbody.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-14T09:11:00.000Z",
+      "fileSize": "5.57 GB"
+    },
+    {
+      "title": "Crossroads: Fatal Truths Collector's Edition (2024) [RAZOR] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:6e6128a9e7a71cff822bec3b68c6b62827f2a183&dn=Crossroads%20Fatal%20Truths.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-14T09:09:00.000Z",
+      "fileSize": "643.0 MB"
+    },
+    {
+      "title": "Cyberpunk 2077: Ultimate Edition (2.13) [CODEX] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:ce32c0c5702231778932279c6bb7d533906294ca&dn=Cyberpunk%202077.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-14T09:08:00.000Z",
+      "fileSize": "83.84 GB"
+    },
+    {
+      "title": "Nine Sols (2024) (v.202409091536.c28cb600.0) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:3b54179252ec3c5fecf47170651396689c711c4b&dn=Nine%20Sols.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-14T09:06:00.000Z",
+      "fileSize": "3.76 GB"
+    },
+    {
+      "title": "House Flipper 2 (v.1.4.1) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:dd6d16ced42e1eef563f7c30e4fe90d710fc23e1&dn=House%20Flipper%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-13T10:24:00.000Z",
+      "fileSize": "6.51 GB"
+    },
+    {
+      "title": "STAR WARS Jedi: Survivor Deluxe Edition (v.1.0.0.11) + 2 DLC [RUNE] [VKD3D/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:561e76f99392ea5019c72cf101782cb4aa46e725&dn=STAR%20WARS%20Jedi%20Survivor.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-13T11:24:00.000Z",
+      "fileSize": "127.9 GB"
+    },
+    {
+      "title": "EVOTINCTION (v.build 15675746) + 4 DLC [Unreal Engine 4] [RUNE] [VKD3D/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:47e3ae584f8e1f6d801b64b0bb79a60cfb761012&dn=EVOTINCTION.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-13T10:23:00.000Z",
+      "fileSize": "5.91 GB"
+    },
+    {
+      "title": "MARVEL vs. CAPCOM Fighting Collection: Arcade Classics (2024) [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:3ca2659fc3ddb5423e7483613e52530eca00a07e&dn=MARVEL%20vs.%20CAPCOM%20Fighting%20Collection%20Arcade%20Classics.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-13T10:22:00.000Z",
+      "fileSize": "3.51 GB"
+    },
+    {
+      "title": "Funko Fusion (2024) [Unreal Engine 4] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:1ceab382443ef5f432f4df0d65e789f778bd03a2&dn=Funko%20Fusion.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-14T09:10:00.000Z",
+      "fileSize": "39.89 GB"
+    },
+    {
+      "title": "Grim Tales: All Shades of Black Collector's Edition (2024) [RAZOR] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:c927cb7acff211083aa23ab3b66f34e4b2cfbf66&dn=Grim%20Tales%20All%20Shades%20of%20Black.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-15T08:54:00.000Z",
+      "fileSize": "929.0 MB"
+    },
+    {
+      "title": "Reflections of Life: The Shattered Timeline Collector's Edition (2024) [RAZOR] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:9814c7f4f8f53e4164c16ee2bc191980f6bb6867&dn=Reflections%20of%20Life%20The%20Shattered%20Timeline.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-13T10:21:00.000Z",
+      "fileSize": "946.9 MB"
+    },
+    {
+      "title": "Punch Club 2: Fast Forward - Iron Fist (v.1.108) + 4 DLC [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:edf4ef8eea3405f2cfe7a2096ba01848db58b79c&dn=Punch%20Club%202%20Fast%20Forward.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-12T09:35:00.000Z",
+      "fileSize": "1007.4 MB"
+    },
+    {
+      "title": "Going Medieval (v.0.19.39) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:f00245f8f3b944ffaec6dd7210416f5344ad1a7a&dn=Going%20Medieval.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-12T09:30:00.000Z",
+      "fileSize": "402.6 MB"
+    },
+    {
+      "title": "Risk of Rain 2: Seekers of the Storm (v.1.3.4) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a9cc7a8dc42fa43e6bb8e5c0687b403e9ebbe31a&dn=Risk%20of%20Rain%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-12T09:34:00.000Z",
+      "fileSize": "1.72 GB"
+    },
+    {
+      "title": "American Truck Simulator: Arkansas (v.1.51.2.3s) + All DLC [MULTi24] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:14885cd7061c3e8382d5acfa8da34492991097c4&dn=American%20Truck%20Simulator.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-18T08:46:00.000Z",
+      "fileSize": "19.86 GB"
+    },
+    {
+      "title": "Warhammer 40000: Space Marine 2 Season Pass (2024) (v.3.0.0.1) + 7 DLC [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!] (40,000)",
+      "uris": [
+        "magnet:?xt=urn:btih:d6374f9cf33070e322490b4a7ce21946de220205&dn=Warhammer%2040000%20Space%20Marine%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-27T09:59:00.000Z",
+      "fileSize": "55.66 GB"
+    },
+    {
+      "title": "Wildermyth: Omenroad (v.1.16+551) + 2 DLC [LibGDX] [GOG] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:81cc0067b1d8a8e9c4fed3537e21088267546fc9&dn=Wildermyth.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-03T08:42:00.000Z",
+      "fileSize": "2.18 GB"
+    },
+    {
+      "title": "Euro Truck Simulator 2: Renault Trucks E-Tech T (v.1.51.1.10s) + All DLC [MULTi28] [Goldberg Steam Emu] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:f20780e3a2bf53ec56f9e993b5185409d6a89bed&dn=Euro%20Truck%20Simulator%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-23T07:43:00.000Z",
+      "fileSize": "25.89 GB"
+    },
+    {
+      "title": "Satisfactory (2024) (v.1.0.0.3) [Unreal Engine 4] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:fa9073992c4178862e4fa0c9354d0b0cb92da5ef&dn=Satisfactory.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-26T17:24:00.000Z",
+      "fileSize": "9.07 GB"
+    },
+    {
+      "title": "GreedFall II: The Dying World (v.build 15757967) [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!] (2)",
+      "uris": [
+        "magnet:?xt=urn:btih:d2ea3aff5f193f29ed8501fe0e1d670441247457&dn=GreedFall%20II%20The%20Dying%20World.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-26T17:17:00.000Z",
+      "fileSize": "24.38 GB"
+    },
+    {
+      "title": "Builders of Greece (v.0.9.5 build 15791446) [Unity3D] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:d23395811d3f458e3d7de39ab7f034144aaec081&dn=Builders%20of%20Greece.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-26T17:16:00.000Z",
+      "fileSize": "4.00 GB"
+    },
+    {
+      "title": "theHunter: Call of the Wild - Scopes and Crosshairs Pack (v.2846103) + All 61 DLC [MULTi6] [TENOKE] [DXVK/Proton/FSync] (The Hunter) [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:ad0525287b0566b00a713abedea2c3d998898bc9&dn=theHunter%20Call%20of%20the%20Wild.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-26T17:22:00.000Z",
+      "fileSize": "47.03 GB"
+    },
+    {
+      "title": "Stellaris: Cosmic Storms - Galaxy Edition (v.3.13.1 build 76545) + 29 DLC [MULTi] [GOG]",
+      "uris": [
+        "magnet:?xt=urn:btih:7cce518f46c6ecdcbdd650c3a4de03290ce2f44d&dn=Stellaris&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-25T10:15:00.000Z",
+      "fileSize": "14.35 GB"
+    },
+    {
+      "title": "MotoGP 24 (2024) (v.build 15622536) [Unreal Engine 4] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2a3968cb4a2dab54819e8c077eb367a5dd638167&dn=MotoGP%2024.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-11T09:02:00.000Z",
+      "fileSize": "23.01 GB"
+    },
+    {
+      "title": "Expeditions: A MudRunner Game - Game Year 1 Pass (2024) (v.15456569) + 8 DLC [Goldberg] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:4db6b5cef579c8d2ae5b29345134883ab59c77cd&dn=Expeditions%20A%20MudRunner%20Game.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-10T08:51:00.000Z",
+      "fileSize": "16.14 GB"
+    },
+    {
+      "title": "Revival: Recolonization (2024) (v.1.1.437) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:40c659abd8ed0c8f71936faf89bf5bc92477f68e&dn=Revival%20Recolonization.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-10T08:50:00.000Z",
+      "fileSize": "955.2 MB"
+    },
+    {
+      "title": "Green Hell: The Spirits of Amazonia Part 3 (v.2.9.1) [Unity3D] [CODEX] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:ffd9d58d3aa9b82fe0362088493bae8439e3b16a&dn=Green%20Hell.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-10T08:49:00.000Z",
+      "fileSize": "5.28 GB"
+    },
+    {
+      "title": "ASTRONEER (v.1.31.79.0) + 4 DLC [Unreal Engine 4] [CODEX] [DXVK/Wine/Fsync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:53416addbbb4b829275a814d8248697a19c98e70&dn=ASTRONEER.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-17T09:33:00.000Z",
+      "fileSize": "2.61 GB"
+    },
+    {
+      "title": "Riven (2024) (v.1.3.0 build 75237) [GOG] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:8d3d8bd0c45a95bc5c664028bc59423a35b2f65e&dn=Riven.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-09T10:16:00.000Z",
+      "fileSize": "21.79 GB"
+    },
+    {
+      "title": "Dome Keeper (v.4.0.4) + Pioneer Pack DLC [Godot] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:1941096997ab7b471d06e055d555722db681a9c5&dn=Dome%20Keeper.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-09T10:14:00.000Z",
+      "fileSize": "644.3 MB"
+    },
+    {
+      "title": "Sentinel Girls2:Snezhinka (2024) (v.1.1.4) [Unity3D] [MULTi4] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:034e7f1c077f8095d1d7f1683a8a9db4ea650d68&dn=Sentinel%20Girls2%20Snezhinka.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-09T10:14:00.000Z",
+      "fileSize": "201.3 MB"
+    },
+    {
+      "title": "Reverse Collapse: Code Name Bakery (2024) (v.1.0.7.2) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:321a1ac1b1ffc1875f58c9bea6cd7d252a43296a&dn=Reverse%20Collapse%20Code%20Name%20Bakery.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-08T08:53:00.000Z",
+      "fileSize": "11.56 GB"
+    },
+    {
+      "title": "Diluvian Winds (v.1.1.0) [Unity3D] [GOG] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:c8d251ebb08468e39abeed1b255a35b6eaf7720a&dn=Diluvian%20Winds.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-08T08:52:00.000Z",
+      "fileSize": "526.6 MB"
+    },
+    {
+      "title": "Five Nights at Freddy's 2 (v.1.1) [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:cf2ec2bb37afd8ed1928fb008368732603e4377c&dn=Five%20Nights%20at%20Freddy%27s%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-08T08:51:00.000Z",
+      "fileSize": "298.1 MB"
+    },
+    {
+      "title": "ContractVille (v.build 15582042) [Unreal Engine 4] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:bbf830a3d0114e86f38631e6eabcec65e296244e&dn=ContractVille.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-08T08:46:00.000Z",
+      "fileSize": "3.93 GB"
+    },
+    {
+      "title": "Farthest Frontier (v.0.9.5p2) [CODEX] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:40421b1cecb3072b9c9f1a02b1511a66c1bcef7c&dn=Farthest%20Frontier.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-27T09:59:00.000Z",
+      "fileSize": "1.91 GB"
+    },
+    {
+      "title": "TEKKEN 8: Ultimate Edition (2024) (v.1.08.01) + 11 DLC [Unreal Engine 5] [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:740619208c567b17cfdef18f7afce118f4ace1c9&dn=TEKKEN%208.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-04T08:47:00.000Z",
+      "fileSize": "95.88 GB"
+    },
+    {
+      "title": "Star Trucker (2024) (v.1.0.41.0) [Unity3D] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:454e10fb2133f187b4a9b849227951d560641cab&dn=Star%20Trucker.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-26T17:19:00.000Z",
+      "fileSize": "4.16 GB"
+    },
+    {
+      "title": "Starcom: Unknown Space (2024) (v.build: Kepler 17318) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:e2c0bcc2cc1783688a2fa49aeb07c11d422e1a51&dn=Starcom%20Unknown%20Space.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-03T09:13:00.000Z",
+      "fileSize": "1.36 GB"
+    },
+    {
+      "title": "Townscaper (v.1.2.1 build 65961) [Unity3D] [GOG] [Wine]",
+      "uris": [
+        "magnet:?xt=urn:btih:bd0def5831d8e93b75656310b107b57f9136a79d&dn=Townscaper.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-17T09:35:00.000Z",
+      "fileSize": "123.9 MB"
+    },
+    {
+      "title": "Enotria: The Last Song (2024) (v.1.002.26228) [Unreal Engine 5] [FLT] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:475d4bd920102c3cc0c28eb3340c27548f2fd394&dn=Enotria%20The%20Last%20Song.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-17T09:32:00.000Z",
+      "fileSize": "12.85 GB"
+    },
+    {
+      "title": "Old School RPG (2024) (v.1.076c) [Unity3D] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:d3b381a8ed925d80b325e1bf875dc2c689b1d699&dn=Old%20School%20RPG.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-17T09:31:00.000Z",
+      "fileSize": "10.32 GB"
+    },
+    {
+      "title": "Trail of Ayash (2024) (v.6.0) [Unreal Engine 4] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:f99d0281ffc1560a9a7fd11043d94f42a484b346&dn=Trail%20of%20Ayash.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-17T09:30:00.000Z",
+      "fileSize": "14.36 GB"
+    },
+    {
+      "title": "Anomaly Agent (2024) (v.1.1.0.08) [MULTi] [Unity3D] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:e3d88eee3f1fc478811a60872f2a017b6ff29ee0&dn=Anomaly%20Agent.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-17T09:29:00.000Z",
+      "fileSize": "231.8 MB"
+    },
+    {
+      "title": "The Plucky Squire (2024) (v.1.12) [Unreal Engine 4] [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a4d53abbc09e58623fbce3e6aa353e0eb5597584&dn=The%20Plucky%20Squire.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-30T09:18:00.000Z",
+      "fileSize": "22.69 GB"
+    },
+    {
+      "title": "Frostpunk 2: Deluxe Edition (2024) (v.1.0.5) [Unreal Engine 5] [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:54a28dcf5856f4a943601d3f54ccbc6b2be044fc&dn=Frostpunk%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-05T06:22:00.000Z",
+      "fileSize": "9.49 GB"
+    },
+    {
+      "title": "The Casting of Frank Stone (2024) (v.build 15667197 (19.09.2024)) + 2 DLC [Unreal Engine 5] [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:a49c1592799c88c46c8fce5b15846418d0d0d88f&dn=The%20Casting%20of%20Frank%20Stone.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-18T08:51:00.000Z",
+      "fileSize": "44.06 GB"
+    },
+    {
+      "title": "Asterigos: Curse of the Stars (v.01.09.0000) + 4 DLC [Unreal Engine 4] [CODEX] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:1cec3fe7f2fc839716fe138ea3fef5fc58f2e3e7&dn=Asterigos%20Curse%20of%20the%20Stars.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-18T08:54:00.000Z",
+      "fileSize": "9.89 GB"
+    },
+    {
+      "title": "Workers & Resources: Soviet Republic - Biomes (2024) (v.1.0.0.9) [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:8bfde03c18ea9f979a270eb0f9a104d5544178de&dn=Workers%20and%20Resources%20Soviet%20Republic.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-18T08:55:00.000Z",
+      "fileSize": "3.23 GB"
+    },
+    {
+      "title": "BeamNG.drive (v.0.33.2.0.17171a) [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:b302b5d7ba3fa3b2603fa58bcee2ab86f9c0e861&dn=BeamNG.drive%20Linux.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-02T09:13:00.000Z",
+      "fileSize": "18.58 GB"
+    },
+    {
+      "title": "Tavern Manager Simulator (2024) (v.1.0.10 1) [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:8ac85d013801337d3fb8234f9ded02e44624f188&dn=Tavern%20Manager%20Simulator.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:25:00.000Z",
+      "fileSize": "865.8 MB"
+    },
+    {
+      "title": "Final Fantasy IX + Moguri Mod (v.5378074) [Unity3D] [CODEX] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:55838c8b2d7854c706a6adeb5ab88f80ff8d36c8&dn=Final%20Fantasy%20IX.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:24:00.000Z",
+      "fileSize": "9.44 GB"
+    },
+    {
+      "title": "Broken Sword - Shadow of the Templars: Reforged (2024) [Goldberg] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:08ae091f2526e5014dc7aa2f6a07050ccf139b66&dn=Broken%20Sword%20Shadow%20of%20the%20Templars%20Reforged.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:24:00.000Z",
+      "fileSize": "6.97 GB"
+    },
+    {
+      "title": "X-Plane 12 (v.12.1.1) + 6 DLC [MULTi9] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2d8acce4652740a971cef2c6f0e0af3687ca6b92&dn=X-Plane%2012.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:22:00.000Z",
+      "fileSize": "72.12 GB"
+    },
+    {
+      "title": "Construction Simulator 3 (2024) [Unity3D] [TiNYiSO] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2d8acce4652740a971cef2c6f0e0af3687ca6b92&dn=X-Plane%2012.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-19T07:22:00.000Z",
+      "fileSize": "526.1 MB"
+    },
+    {
+      "title": "God of War Ragnarok: Valhalla - Deluxe Edition (2024) (v.1.0.614.9211 patch 5) + 3 DLC [MULTi22] [Goldberg] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:3e6931e5f00a6490d9f3d9889f7e2f7ca03b067c&dn=God%20of%20War%20Ragnarok.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann&tr=http%3A%2F%2Fretracker.local%2Fannounce"
+      ],
+      "uploadDate": "2024-10-05T06:21:00.000Z",
+      "fileSize": "97.95 GB"
+    },
+    {
+      "title": "Baldur's Gate 3: Digital Deluxe Edition (v.4.1.1.5970269) [RUNE] [DXVK/Proton/FSync] (Baldurs Gate III) [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:898503969becb117e3eb5844211db60aea0dd033&dn=Baldur%27s%20Gate%203.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-05T06:21:00.000Z",
+      "fileSize": "113.30 GB"
+    },
+    {
+      "title": "The Unseen Fears: Fortune's Consequence Collector's Edition (2024) [RAZOR] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:ec8766c52773539be042604671dea209a21f4e37&dn=The%20Unseen%20Fears%20Fortune%27s%20Consequence.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-22T08:29:00.000Z",
+      "fileSize": "969.6 MB"
+    },
+    {
+      "title": "The Sims 4: Lovestruck - Digital Deluxe Edition (v.1.109.207.1020) + All DLC [x64] [ENG/RUS/MULTi18] [anadius] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:86c86d343ba83c969fd1e506df844912b62d9073&dn=The%20Sims%204.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-02T19:42:00.000Z",
+      "fileSize": "60.27 GB"
+    },
+    {
+      "title": "Twin Mind: The Deathly Trick Collector’s Edition (2024) [RAZOR] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:45f798433d7291534536dabb9bd5fa5770e3d60d&dn=Twin%20Mind%20The%20Deathly%20Trick.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-21T08:37:00.000Z",
+      "fileSize": "1.22 GB"
+    },
+    {
+      "title": "Train Sim World 5 Special Edition (2024) + 111 DLC [Unreal Engine 4] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:e698405876c1eda60180b30499012ab645bb4c86&dn=Train%20Sim%20World%205.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-21T08:35:00.000Z",
+      "fileSize": "275.15 GB"
+    },
+    {
+      "title": "Slackers Carts of Glory (2024) [Unreal Engine 4] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:f6f078873cf9e3ddcf6f6295aa8c321b797c55ff&dn=Slackers%20Carts%20of%20Glory.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-20T12:37:00.000Z",
+      "fileSize": "1.13 GB"
+    },
+    {
+      "title": "Grand Theft Auto: Vice City (v.1.1 / re3 engine Latest) + Widescreen support [MULTi4] [re3 engine] (GTA) [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2a5f9df8ae0e08cc8ce00a38f2177dd653387b38&dn=Grand%20Theft%20Auto%20Vice%20City.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-20T12:35:00.000Z",
+      "fileSize": "1.09 GB"
+    },
+    {
+      "title": "Copycat (2024) (v.1.0.1) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:e49daf7942a5e4ef170f015b9b68a3f4ec48c41e&dn=Copycat.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-24T09:40:00.000Z",
+      "fileSize": "5.34 GB"
+    },
+    {
+      "title": "Grounded (v.1.4.5.4679) [Unreal Engine 4] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:52c1e87a23aa75bed63b4aac9202f2f5e30407cc&dn=Grounded.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-07T06:40:00.000Z",
+      "fileSize": "10.86 GB"
+    },
+    {
+      "title": "Deep Rock Galactic: Survivor (v.0.3.35D) [Unity3D] [Goldberg] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:1edca036f5cf2c8b99c6094f32de6f1981f08eb3&dn=Deep%20Rock%20Galactic%20Survivor.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-23T07:47:00.000Z",
+      "fileSize": "1.46 GB"
+    },
+    {
+      "title": "ARMORED CORE VI: Fires of Rubicon (v.1.07.1) + 2 DLC [TENOKE] [VKD3D/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:97cc5f5f499dedb6cf9df71aff76d8f7d7ed6d21&dn=ARMORED%20CORE%20VI%20Fires%20of%20Rubicon.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-06T12:51:00.000Z",
+      "fileSize": "59.66 GB"
+    },
+    {
+      "title": "Pneumata (2024) (v.build 15732441) [Unreal Engine 4] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:7a63344f0a0f8d07d1b0080d75d03ad801a93dbd&dn=Pneumata.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-24T09:40:00.000Z",
+      "fileSize": "17.19 GB"
+    },
+    {
+      "title": "Need For Speed: Underground 2 (FullHD + Widescreen Fix v.8072023) [Wine] (NFS) [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:5b75c2ec81cfad1360c9c286c1c4a0022752727b&dn=Need%20For%20Speed%20Underground%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-24T09:40:00.000Z",
+      "fileSize": "684.4 MB"
+    },
+    {
+      "title": "Need For Speed: Most Wanted Black Edition [FullHD + Latest Widescreen Fix v.29072023] [Proton] (NFS) [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:fe8ce153bfdd36c853694f029501d6b8615dafba&dn=Need%20For%20Speed%20Most%20Wanted%20Black%20Edition.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-24T09:40:00.000Z",
+      "fileSize": "2.1 GB"
+    },
+    {
+      "title": "Cursed Fables Before the Clock Strikes (2024) [Unity3D] [RAZOR] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:8ed8181cb2ddae7ae446e1a6a9d88f7f7242567a&dn=Cursed%20Fables%20Before%20the%20Clock%20Strikes.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-24T09:40:00.000Z",
+      "fileSize": "715.2 MB"
+    },
+    {
+      "title": "Disney Epic Mickey: Rebrushed (2024) (v.758579) [Unreal Engine 4] [MULTi15] [FLT] [VKD3D/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2484154e0eca8cf8c53b9a868e379b87a8c389e2&dn=Disney%20Epic%20Mickey%20Rebrushed.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-25T10:10:00.000Z",
+      "fileSize": "26.13 GB"
+    },
+    {
+      "title": "Matchbox Driving Adventures (2024) (v.1.08) [Unity3D] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:e2e910c5a543d8578c50a7055238ec5e844787cb&dn=Matchbox%20Driving%20Adventures.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-25T10:10:00.000Z",
+      "fileSize": "2.31 GB"
+    },
+    {
+      "title": "SAND LAND (2024) (v.1.0.5) [Unreal Engine] [MULTi12] [FLT] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:0e9fbf7d1c788e04eb7525bce4f6994c1ad27139&dn=SAND%20LAND.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-25T10:15:00.000Z",
+      "fileSize": "14.26 GB"
+    },
+    {
+      "title": "Victory Heat Rally (2024) (v.build 15913917) [Gamemaker] [Goldberg] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2339c139e6cb436c7abef18bd3e7ef60bce0fa75&dn=Victory%20Heat%20Rally.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-08T07:40:00.000Z",
+      "fileSize": "256.4 MB"
+    },
+    {
+      "title": "Kingdom Rush 5 Alliance TD (2024) (v.20241003) [TENOKE[ [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:88cc4e5b1e4a6b71e61f241577708f9c89ab2944&dn=Kingdom%20Rush%205%20Alliance%20TD.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-08T07:40:00.000Z",
+      "fileSize": "790.9 MB"
+    },
+    {
+      "title": "Exovoid Carnage (2024) [Unreal Engine 4] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:04190754955dd3fab52ebbe30080d4441978e3c6&dn=Exovoid%20Carnage.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-08T07:39:00.000Z",
+      "fileSize": "1.19 GB"
+    },
+    {
+      "title": "Might and Magic Heroes VI Gold / Complete + Shades of Darkness (v.2.1.1.0) + All DLC [RELOADED] [DXVK/Proton/FSync] [LinuxRuleZ!] (6)",
+      "uris": [
+        "magnet:?xt=urn:btih:81242d9abfc7d85990dab5d659acdd80e5f46c5f&dn=Might%20and%20Magic%20Heroes%20VI%20Gold.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-08T07:39:00.000Z",
+      "fileSize": "6.70 GB"
+    },
+    {
+      "title": "Dragon Ball: Sparking! Zero (2024) + 3 DLC [Unreal Engine 4] [TENOKE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:227c37b4098140c1244c9753ef80166464c22212&dn=DRAG%D0%9EN%20BALL%20Sparking%21%20ZERO.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-08T07:38:00.000Z",
+      "fileSize": "26.56 GB"
+    },
+    {
+      "title": "Diplomacy is Not an Option (2024) (v.1.0.10r build 76860) [Unity3D] [GOG] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:53ee3ee3ab54f6f0a97e4721a81df924ec93baba&dn=Diplomacy%20is%20Not%20an%20Option.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-08T07:37:00.000Z",
+      "fileSize": "6.19 GB"
+    },
+    {
+      "title": "TerraScape (2024) (v.1.0.1.5 build 76765) [Unity3D] [GOG] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:b41d9e6f9a03788dfcd65e52de2e572910196c4e&dn=TerraScape.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-07T06:45:00.000Z",
+      "fileSize": "1.33 GB"
+    },
+    {
+      "title": "Criminal Archives: City on Fire Collector's Edition (2024) [RAZOR] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:e443c581ab57b3d8202d907a84ea9f36ec29f5a6&dn=Criminal%20Archives%20City%20on%20Fire.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-07T06:44:00.000Z",
+      "fileSize": "1.28 GB"
+    },
+    {
+      "title": "Ara: History Untold (2024) (v.1.0.3.101) + 5 DLC [RUNE] [MULTi26 / MULTi11] [VKD3DK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:19de4d1b724b2a8a39a7d243fd2750e2abb5da90&dn=Ara%20History%20Untold.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-07T06:41:00.000Z",
+      "fileSize": "16.93 GB"
+    },
+    {
+      "title": "Gunsmith Simulator (2024) (v.1.0.5) [MULTi] [Unity3D] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:3dcbfd0f3aa0c5b5063fbba9c185652896e67af4&dn=Gunsmith%20Simulator.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-07T06:41:00.000Z",
+      "fileSize": "8.77 GB"
+    },
+    {
+      "title": "UBOAT (2024) (v.2024.1 Patch 18 build 76736) [Unity3D] [MULTi] [GOG] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:63402e106af86fe7b7ab4a97f6223d7c81668e7c&dn=UBOAT.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-06T12:52:00.000Z",
+      "fileSize": "20.04 GB"
+    },
+    {
+      "title": "Silent Hill 2 Remake (2024) (v.1.1.236.114) + 4 DLC [Unreal Engine 4] [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:33edf8a90652a91618f6a046a8288fcaaa9096ac&dn=Silent%20Hill%202.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-06T12:48:00.000Z",
+      "fileSize": "32.98 GB"
+    },
+    {
+      "title": "Until Dawn (2024) (v.build 15896519) [Unreal Engine 5] [RUNE] [VKD3D/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:4665dc3b396e138dbfdc2fbf3d1934221898e4f8&dn=Until%20Dawn.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-05T06:24:00.000Z",
+      "fileSize": "56.37 GB"
+    },
+    {
+      "title": "Two Point Campus (v.10.2.145003+2024-04-03.2239) + 4 DLC [MULTi13] [Unity3D] [Goldberg] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:9b07e507d49939fe4422482d2e22bba5206bf578&dn=Two%20Point%20Campus.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-05T06:23:00.000Z",
+      "fileSize": "3.43 GB"
+    },
+    {
+      "title": "Goat Simulator 3: Multiverse of Nonsense (v.1.1.0.3) + 2 DLC [Unreal Engine 4] [RUNE] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:873c019384fbe572c2777ba1e3d4d7fb5f51c20a&dn=Goat%20Simulator%203.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-04T08:49:00.000Z",
+      "fileSize": "4.15 GB"
+    },
+    {
+      "title": "Need for Speed: Underground (v.1.4.0) [FullHD + Widescreen Fix v.8072023] [Wine] (NFS) [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:34dd55f2ee753a5aad2c3ff364fd8e60e2a68a67&dn=Need%20For%20Speed%20Underground.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-03T08:44:00.000Z",
+      "fileSize": "1.00 GB"
+    },
+    {
+      "title": "KILL KNIGHT (2024) (v.1.0.0.108) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:960d9e11566fde495fe4033b158159cd76b1ec7a&dn=KILL%20KNIGHT.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-03T08:44:00.000Z",
+      "fileSize": "4.24 GB"
+    },
+    {
+      "title": "Zoochosis (2024) (v.1.2.3) [Unreal Engine 4] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:b1666d6bdc19acdde55419ed3f33de34f48210b7&dn=Zoochosis.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-03T08:41:00.000Z",
+      "fileSize": "6.00 GB"
+    },
+    {
+      "title": "Monster Hunter: World Iceborne (v.15.22.00) + 243 DLC [MULTi6] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:10139f31b29af09ad0ac6a15b3d12750c774814d&dn=Monster%20Hunter%20World.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-03T08:40:00.000Z",
+      "fileSize": "98.23 GB"
+    },
+    {
+      "title": "SpellForce: Conquest of EO: Weavers Realms (v.01.06.30485) [Unity3D] [RUNE] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:878731e459b34e0fcbb42acad3620c1424d23bf5&dn=SpellForce%20Conquest%20of%20Eo.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-10-02T09:12:00.000Z",
+      "fileSize": "3.35 GB"
+    },
+    {
+      "title": "Resident Evil: Operation Raccoon City (v.build 10887) + 9 DLC (ALI213 + GFWL Emu) [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:6b88a7843059a5497d75849a13e1e680acdc5a38&dn=Resident%20Evil%20Operation%20Raccoon%20City.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-30T09:17:00.000Z",
+      "fileSize": "7.55 GB"
+    },
+    {
+      "title": "Grand Theft Auto V (v.3337 / 1.69) + All DLC [MULTi7] [Rockstar-Rip] [Goldberg] [Proton/DXVK/FSync] (5) [LinuxRuleZ!]",
       "uris": [
         "magnet:?xt=urn:btih:ce2c0b0a50c5cfc4694a4dd0a27bcf1351b54fd6&dn=Grand%20Theft%20Auto%20V.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
       ],
+      "uploadDate": "2024-09-30T09:16:00.000Z",
+      "fileSize": "107.99 GB"
+    },
+    {
+      "title": "Golden Lap (2024) (v.build 15850424) [Unity3D] [Goldberg] [Wine] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:2a670873f5e8ce65fda200c38bd8fcee882e2e1c&dn=Golden%20Lap.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-29T09:10:00.000Z",
+      "fileSize": "338.20 MB"
+    },
+    {
+      "title": "Crusader Kings III: Roads to Power - Royal Edition (v.1.13.0.3) + All DLC [MULTi7] [Godberg Steam Emu] [LinuxRuleZ!] (3)",
+      "uris": [
+        "magnet:?xt=urn:btih:7d001659a5c2857051b505a509ee55e95685c44a&dn=Crusader%20Kings%20III.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-29T09:05:00.000Z",
+      "fileSize": "4.54 GB"
+    },
+    {
+      "title": "Contraband Police (v.build 15301426) [Unity3D] [CODEX] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:28494bc524d4c6d33301b4609017dc4f97f6b487&dn=Contraband%20Police.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-28T09:17:00.000Z",
+      "fileSize": "8.18 GB"
+    },
+    {
+      "title": "Little Kitty, Big City (2024) (v.1.24.9.24 3706) [Unity3D] [DXVK/Wine/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:17c8d34ca311dffa18344b560b6429f663816946&dn=Little%20Kitty%2C%20Big%20City.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-28T09:14:00.000Z",
+      "fileSize": "457.9 MB"
+    },
+    {
+      "title": "Dwarf Fortress (v.50.14) [Steam-Rip] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:f9de32086bf4d303da9e5d279cca6dcf820ee941&dn=Dwarf%20Fortress.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-27T10:03:00.000Z",
+      "fileSize": "236.2 MB"
+    },
+    {
+      "title": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 (v.build 15750331 (25.09.2024)) [MULTi] [Goldberg] [DXVK/Proton/FSync] [LinuxRuleZ!]",
+      "uris": [
+        "magnet:?xt=urn:btih:82724f4da4e31d63271feba8baa2e35a868c5be4&dn=Metal%20Gear%20Solid%20Master%20Collection%20Vol.1.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-09-27T10:02:00.000Z",
+      "fileSize": "35.79 GB"
+    },
+    {
+      "title": "Hero's Hour - Deluxe Edition (v.2.7.0) [MULTi] [Gamemaker] [TENOKE] [Wine] [LinuxRuleZ!] ",
+      "uris": [
+        "magnet:?xt=urn:btih:960af60ccdaabf6845b8022f1f3e47da520b85e1&dn=Hero%27s%20Hour.sh&tr=http%3A%2F%2Ftracker.zamunda.net%2Fannounce.php%3Fpasskey%3D0091d5741888acd4ab01e3294aec7aa7"
+      ],
+      "uploadDate": "2024-08-29T09:26:00.000Z",
       "fileSize": "1.56 GB"
     }
   ]
