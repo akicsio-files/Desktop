@@ -1,0 +1,9 @@
+{
+  "torrent_sources": [
+{
+      "name": "FreeTP",
+      "url": "https://freetp.org/",
+      "description": "Торрент-трекер с различными раздачами"
+    }
+  ]
+}
