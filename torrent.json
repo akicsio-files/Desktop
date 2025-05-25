@@ -2,12 +2,12 @@
   "Hydra": [
 {
       "name": "BeamNG.drive",
-      "url": "magnet:?xt=urn:btih:09BF0F59477F7F9432613E7D529ECAE120A6FC2F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20%5B%D0%92%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5%5D%20BeamNG.drive%20%5BP%5D%20%5BENG%5D%20(2015%2C%20Simulation)%20(0.35.5.0.18098)%20%5BP2P%5D",
+      "uris": [ "magnet:?xt=urn:btih:09BF0F59477F7F9432613E7D529ECAE120A6FC2F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20%5B%D0%92%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5%5D%20BeamNG.drive%20%5BP%5D%20%5BENG%5D%20(2015%2C%20Simulation)%20(0.35.5.0.18098)%20%5BP2P%5D" ],
     }
 
 {
      "name": "Grand Theft Auto V",
-     "url":"magnet:?xt=urn:btih:127827D4F56E28076D789D0FB1594B07BB4C1623&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20Grand%20Theft%20Auto%20V%20(5)%20%5BP%5D%20%5BRUS%20%2B%20ENG%20%2B%2011%20%2F%20ENG%5D%20(2015%2C%20TPS)%20(1.0.3351%20%2F%201.69)%20%5BPortable%5D",
+     "uris": [ "magnet:?xt=urn:btih:127827D4F56E28076D789D0FB1594B07BB4C1623&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=%5BDL%5D%20Grand%20Theft%20Auto%20V%20(5)%20%5BP%5D%20%5BRUS%20%2B%20ENG%20%2B%2011%20%2F%20ENG%5D%20(2015%2C%20TPS)%20(1.0.3351%20%2F%201.69)%20%5BPortable%5D" ],
     }    
   ]
 }
