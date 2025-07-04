@@ -9,18 +9,22 @@
     settings = {
       exec-once = [
         "swww init"
+	"wayvnc -v 0.0.0.0 5900"
+	"hypridle"
+	"hyprlock"
         "waypaper --restore"
-        # "ags run .config/ags/app.ts"
+         "ags run .config/ags/app.ts"
       ];
 
-      monitor = ",preferred,auto,auto";
+      monitor = ",preferred,1366x768,1";
 
       general = {
         gaps_in = 5;
+	layout = "dwindle";
         gaps_out = 10;
         border_size = 2;
-        #col.active_border = "0xff111111";
-        #col.inactive_border = "rgb(11,11,11)";
+         "col.active_border" = "rgb(111111)";
+        "col.inactive_border" = "rgb(111111)";
       };
 
       decoration = {
